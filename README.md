@@ -1,6 +1,4 @@
-<div align="center"><img src="./logos/logo.png" /></div>
-
-<h1 align="center">Vuetify UI</h1>
+<div align="center"><img src="./logos/logo.svg" /></div>
 
 Vuetify UI is a Curated UI Snippets Library made up of Vuetify 2+ components. Vuetify UI is an open-source library (Github Link)
 
