@@ -16,10 +16,4 @@ I have managed to create a [Public Roadmap on Trello](https://trello.com/b/IrrQC
 
 ## Support This Project
 
-You can [support me via Patreon](https://patreon.com/mrhammadasif)
-
-My Supporters/Backers will get extra perks, such as:
-
-- Merchs
-- Your Company's or Your Name (Badge) (Bronze, Silver or Golden Membership) on our Portal Library https://vuetify-ui.com
-- Mention your Name as Supporters in our Youtube Tutorial Videos (Vuetify and Vuetify UI Tutorial Videos) on our vuetify-ui channel
+You can [support me via Patreon](https://patreon.com/mrhammadasif). My Supporters will get listed their name in [BACKERS](/BACKERS.md) and Sponsors will get their logo listed on our official website
