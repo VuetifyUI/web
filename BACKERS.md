@@ -2,7 +2,7 @@
 
 Vuetify UI is an MIT-licensed open source project. It's an independent project with its ongoing development made possible entirely thanks to these awesome supporters. I am focusing to work as full time on this project but due to limited resources can't focus solely on this project. If you'd like to join these supporters, please consider supporting me to reach my next goal which is to work full-time and focus solely on this project
 
-<div align="center"><a href="https://patreon.com/mrhammadasif"><img height="48" src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" /></a></div>
+<div align="center"><a href="https://patreon.com/mrhammadasif"><img height="48" src="./patreon.png" /></a></div>
 
 <h2>Platinum Sponsors</h2>
 
