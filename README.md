@@ -1,6 +1,14 @@
-# vuetify-ui
+<div align="center"><img src="./logos/logo.png" /></div>
+
+<h1 align="center">Vuetify UI</h1>
 
 Vuetify UI is a Curated UI Snippets Library made up of Vuetify 2+ components. Vuetify UI is an open-source library (Github Link)
+
+## About the Developer
+
+I'm Hamamd Asif, a Frontend Developer, making User Interfaces and User Experiences for more than 12 years now. Its time to combine my extensive Life Experiences into an online Snippets Library, so that the Internet can take benefit from it, to create awesome and workable application experiences without putting great effort in desiging UI from scratch
+
+For that reason, I have chosen Vuetify.js, which I believe is a mature and most comprehensive UI Library based on Vue.js. Presenting you Vuetify UI
 
 I am willing to work on this project to curate perfect ready-to-use snippets, so you just focus on making great products, instead of wasting your precious time creating User Interfaces
 
