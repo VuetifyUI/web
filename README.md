@@ -16,7 +16,7 @@ I have managed to create a [Public Roadmap on Trello](https://trello.com/b/IrrQC
 
 ## Support This Project
 
-You can support me on [Patreon](https://patreon.com/mrhammadasif) [https://patreon.com/mrhammadasif](https://patreon.com/mrhammadasif).
+You can [support me via Patreon](https://patreon.com/mrhammadasif)
 
 My Supporters/Backers will get extra perks, such as:
 
