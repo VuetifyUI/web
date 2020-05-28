@@ -1,6 +1,9 @@
 <div align="center"><img src="./logos/logo.svg" /></div>
 
 <div align="center">
+  <a href="https://patreon.com/mrhammadasif" target="_blank"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fmrhammadasif&style=for-the-badge" /></a>
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mrhammadasif?label=Follow%20Me%20on%20Twitter&logo=twitter&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/vuetify-ui/vuetify-ui" />
   <img src="https://img.shields.io/github/languages/code-size/vuetify-ui/vuetify-ui" />
   <img src="https://img.shields.io/github/last-commit/vuetify-ui/vuetify-ui" />
   <img src="https://img.shields.io/github/issues/vuetify-ui/vuetify-ui" />
@@ -8,6 +11,8 @@
   <img src="https://img.shields.io/github/stars/vuetify-ui/vuetify-ui" />
   <img src="https://img.shields.io/badge/UI%20Snippets%20Count-22-red" />
 </div>
+
+<hr>
 
 Vuetify UI is a Curated UI Snippets Library made up of Vuetify 2+ components. Vuetify UI is an open-source library (Github Link)
 
