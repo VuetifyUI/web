@@ -1,12 +1,21 @@
 <div align="center"><img src="./logos/logo.svg" /></div>
 
+<div align="center">
+  <img src="https://img.shields.io/github/languages/code-size/vuetify-ui/vuetify-ui" />
+  <img src="https://img.shields.io/github/last-commit/vuetify-ui/vuetify-ui" />
+  <img src="https://img.shields.io/github/issues/vuetify-ui/vuetify-ui" />
+  <img src="https://img.shields.io/github/downloads/vuetify-ui/vuetify-ui/total" />
+  <img src="https://img.shields.io/github/stars/vuetify-ui/vuetify-ui" />
+  <img src="https://img.shields.io/badge/UI%20Snippets%20Count-22-red" />
+</div>
+
 Vuetify UI is a Curated UI Snippets Library made up of Vuetify 2+ components. Vuetify UI is an open-source library (Github Link)
 
 ## About the Developer
 
-I'm Hamamd Asif, a Frontend Developer, making User Interfaces and User Experiences for more than 12 years now. Its time to combine my extensive Life Experiences into an online Snippets Library, so that the Internet can take benefit from it, to create awesome and workable application experiences without putting great effort in desiging UI from scratch
+I'm Hammad Asif, a Frontend Developer, making User Interfaces and User Experiences for more than 12 years now. It is time to combine my extensive Life Experiences into an online Snippets Library, so that the Internet can take benefit from it, to create awesome and workable application experiences without putting great effort in desiging UI from scratch
 
-For that reason, I have chosen Vuetify.js, which I believe is a mature and most comprehensive UI Library based on Vue.js. Presenting you Vuetify UI
+For that reason, I have chosen Vuetify.js, which I believe is a mature and most comprehensive UI Library based on Vue.js. Presenting you **Vuetify UI**
 
 I am willing to work on this project to curate perfect ready-to-use snippets, so you just focus on making great products, instead of wasting your precious time creating User Interfaces
 
